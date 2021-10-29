@@ -58,8 +58,8 @@ MATLAB은 대학원 들어가서 배웠습니다. 미국에서 누가 애기장�
 <br>
 일하면서 했던 것도 포함하면 고대에서 홈페이지 코드 인수인계 받고 버그 잡는다고 사흘 야근한거... <br>
 그거 근데 주는 쪽에서 서블릿 매핑을 잘못했더만. 그것도 지인들한테 에러코드랑 해서 물어보고 알았습니다. <br>
-여담이지만 쳐음에는 그런거 모르고 무작정 이거 어떻게 해요? 했다가 명확한 답변을 못 들은 적이 왕왕 있었습니다... <br>
 <br>
+여담이지만 쳐음에는 그런거 모르고 무작정 이거 어떻게 해요? 했다가 명확한 답변을 못 들은 적이 왕왕 있었습니다... <br>
 그래서 개발 건으로 질문할 때는 현재 상황이 이렇고+코드가 지금 이렇고+이렇게 하고 싶다의 3박자를 지켜가면서 질문하고 있습니다. <br>
 <h3>Q4. 꿈이 뭐예요? </h3>
 <b>A4. </b>어릴때부터 꿈은 항상 과학자 고정픽이었습니다. <br>
@@ -70,8 +70,11 @@ MATLAB은 대학원 들어가서 배웠습니다. 미국에서 누가 애기장�
 그 덕분에 매트랩으로 실험용 자체 툴 만들어서 (나만) 쓰고 그랬지... <br>
 그때 DNA 랜덤으로 만들어주는 것도 만들었었는데, 실험적으로 쓸 건 못 됩니다. hairpin같은 거 생겨서... <br>
 그런쪽으로 알고리즘들은 어떻게 짜는지 신기하다니까요... 
-<h1>Links</h1>
+<h1>How to contact</h1>
+<h2>Mail</h2>
+blackholekun@gmail.com(국외)/pokemonms@naver.com(국내)
+<h2>Links</h2>
+<a href="https://github.com/koreanraichu/CodingPDS">GitHub</a> Language: KOR<br>
 <a href="https://koreanraichu.sfuhost.com/">Wordpress</a> Language: KOR<br>
 <a href="https://medium.com/@koreanraichu">Medium</a> Language: KOR<br>
 <a href="https://www.deviantart.com/blackholekun">Devianart</a> Language: ENG<br>
-<a href="https://www.youtube.com/channel/UCQyPvrrBhvp95iqhkLR1n-A">YouTube</a> Language: KOR/ENG, 업로드 요즘 뜸함(관리는 하고 있습니다)
