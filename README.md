@@ -71,9 +71,10 @@ MATLAB은 대학원 들어가서 배웠습니다. 미국에서 누가 애기장�
 그때 DNA 랜덤으로 만들어주는 것도 만들었었는데, 실험적으로 쓸 건 못 됩니다. hairpin같은 거 생겨서... <br>
 그런쪽으로 알고리즘들은 어떻게 짜는지 신기하다니까요... 
 <h1>How to contact</h1>
-<h2>Mail</h2>
+<h3>Mail</h3>
 blackholekun@gmail.com(국외)/pokemonms@naver.com(국내)
-<h2>Links</h2>
+워드프레스 방명록으로도 소통 가능합니다. GitHub에는 개인 번호를 공개하지 않습니다. 
+<h3>Links</h3>
 <a href="https://github.com/koreanraichu/CodingPDS">GitHub</a> Language: KOR<br>
 <a href="https://koreanraichu.sfuhost.com/">Wordpress</a> Language: KOR<br>
 <a href="https://medium.com/@koreanraichu">Medium</a> Language: KOR<br>
