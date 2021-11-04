@@ -30,6 +30,7 @@
 <blockquote>아니, 그거 일단 재밌어보이는데? </blockquote>
 신중할때는 나름 신중한 성격이지만 보통은 바로바로 결정하는 편입니다. <br>
 에라 모르겠다 하고 기도메타에 맡겨버리는 성격은 아니지만 그렇다고 오래 생각하지도 않습니다. <br>
+흥미본위로 움직이는 성격이며, 재미없거나 귀찮은 일은 하지 않습니다. <br>
 <br>
 <blockquote>사람이 살다보면 실수하고 그래요. 근데 그걸 반복하면 그 시점에서 그건 트롤링이라고 합니다. </blockquote>
 떄로는 불같고 때로는 칼같은 성격입니다. <br>
@@ -80,4 +81,4 @@ blackholekun@gmail.com(국외)/pokemonms@naver.com(국내)<br>
 <a href="https://koreanraichu.sfuhost.com/">Wordpress</a> Language: KOR<br>
 <a href="https://medium.com/@koreanraichu">Medium</a> Language: KOR<br>
 <a href="https://www.deviantart.com/blackholekun">Devianart</a> Language: ENG<br>
-<a href="https://screeching-tiglon-b0c.notion.site/Molecular-recognization-c42def0b6a884f67af3fcb7f14bfa45f">Notion 팔만대장경 구경하러 가기</a>
+<a href="https://screeching-tiglon-b0c.notion.site/Molecular-recognization-c42def0b6a884f67af3fcb7f14bfa45f">Notion 팔만대장경 구경하러 가기</a> Language: KOR/ENG
