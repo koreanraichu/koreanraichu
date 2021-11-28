@@ -18,7 +18,6 @@
   <li>Workbench(MySQL)</li>
   <li>IDLE, PyCharm, Jupyter, Spyder(Python)</li>
   <li>R studio(R)</li>
-  <li>VS code web(Python)</li>
 </ul>
 <h3>기타</h3>
 <ul>
