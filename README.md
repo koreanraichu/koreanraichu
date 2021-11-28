@@ -18,7 +18,7 @@
   <li>Workbench(MySQL)</li>
   <li>IDLE, PyCharm, Jupyter, Spyder(Python)</li>
   <li>R studio(R)</li>
-  <li>VS code(web, Python)</li>
+  <li>VS code web(Python)</li>
 </ul>
 <h3>기타</h3>
 <ul>
@@ -26,6 +26,7 @@
   <li>Illustrator</li>
   <li>Figma</li>
   <li>GitKraken(깃헙 관련된건 대부분 여기서 해결중)</li>
+  <li>ATOM(글 쓸 때 사용)</li>
 </ul>
 <h2>About contributor</h2>
 <blockquote>아니, 그거 일단 재밌어보이는데? </blockquote>
