@@ -1,6 +1,6 @@
 <h1>Welcome to my repository!</h1>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FczDji5%2Fbtrj1LqYRGK%2FS6ZDFYiYKSdb9M9GazBPgK%2Fimg.png" width="350">
-<blockquote>취미로 개발하는 포켓몬 매니아인 생물학 전공자</blockquote> 
+<blockquote>취미로 코딩하는 포켓몬 매니아인 생물학 전공자</blockquote> 
 <h3>일단 해 본 것들</h3>
 <ul>
   <li>VB(Visual basic)</li>
