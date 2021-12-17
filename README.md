@@ -101,6 +101,7 @@ for문에서 뭐가 안되던거 리스트 밖으로 빼서 해결된 적도 있
 <h1>How to contact</h1>
 <h3>Mail</h3>
 blackholekun@gmail.com(국외)/pokemonms@naver.com(국내)<br>
+Discord: 320538255512698881/Lv. 32 라이츄💕#5597(레벨 옆 숫자는 해가 갈수록 증가합니다)<br>
 워드프레스 방명록으로도 소통 가능합니다. 아울러 GitHub에는 개인 번호를 공개하지 않습니다. 
 <h3>Links</h3>
 <a href="https://github.com/koreanraichu/CodingPDS">GitHub main repository</a> Language: KOR<br>
