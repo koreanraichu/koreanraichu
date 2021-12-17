@@ -100,8 +100,9 @@ for문에서 뭐가 안되던거 리스트 밖으로 빼서 해결된 적도 있
 문제같은 것도 한번에 확 하는것보단 일단 이해하고 도식화하고 필요한 게 뭘지 생각해보는 게 편하고요. <s>가끔 측간신 버프도 좀 받고</s>
 <h1>How to contact</h1>
 <h3>Mail</h3>
+<b>Notes: </b>개발 환경이 구축된 노트북은 리눅스입니다. 그리고 카카오톡은 리눅스 버전이 없기 때문에 개발할 때는 디스코드와 메일을 주로 활용합니다. <br>
 blackholekun@gmail.com(국외)/pokemonms@naver.com(국내)<br>
-Discord: 320538255512698881/Lv. 32 라이츄💕#5597(레벨 옆 숫자는 해가 갈수록 증가합니다)<br>
+Discord Name: Lv. 32 라이츄💕#5597/Discord ID: 320538255512698881 <br>
 워드프레스 방명록으로도 소통 가능합니다. 아울러 GitHub에는 개인 번호를 공개하지 않습니다. 
 <h3>Links</h3>
 <a href="https://github.com/koreanraichu/CodingPDS">GitHub main repository</a> Language: KOR<br>
