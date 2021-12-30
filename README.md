@@ -16,7 +16,7 @@
 <ul>
   <li>Eclipse(JSP, HTML, CSS)</li>
   <li>Workbench(MySQL)</li>
-  <li>IDLE, PyCharm, Jupyter, Spyder(Python)</li>
+  <li>IDLE, PyCharm, Jupyter, VScode(Python)</li>
   <li>R studio(R)</li>
 </ul>
 <h3>기타</h3>
