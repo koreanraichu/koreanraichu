@@ -109,4 +109,4 @@ Discord Name: Lv. 32 라이츄💕#5597/Discord ID: 320538255512698881 <br>
 <a href="https://koreanraichu.sfuhost.com/">Wordpress</a> Language: KOR<br>
 <a href="https://medium.com/@koreanraichu">Medium</a> Language: KOR<br>
 <a href="https://www.deviantart.com/blackholekun">Devianart</a> Language: ENG<br>
-<a href="https://screeching-tiglon-b0c.notion.site/Molecular-recognization-c42def0b6a884f67af3fcb7f14bfa45f">Notion 팔만대장경 구경하러 가기</a> Language: KOR/ENG
+<a href="https://study-ing.notion.site/Molecular-recognization-c42def0b6a884f67af3fcb7f14bfa45f">Notion 팔만대장경 구경하러 가기</a> Language: KOR/ENG
