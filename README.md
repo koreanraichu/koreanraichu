@@ -1,5 +1,5 @@
 <h1>Welcome to my repository!</h1>
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FP5HKG%2Fbtrm2prJlIu%2FXA6qMTidyA1krW4Ldvxr2K%2Fimg.png" width="350">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FP5HKG%2Fbtrm2prJlIu%2FXA6qMTidyA1krW4Ldvxr2K%2Fimg.png" width="450">
 <blockquote>코더 Job lv. 올리고 있는 포켓몬 매니아인 생물학 전공자</blockquote> 
 <h3>일단 해 본 것들</h3>
 <ul>
