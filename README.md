@@ -75,29 +75,21 @@ MATLAB은 대학원 들어가서 배웠습니다. 애기장대 종자 사진을 
 그때 DNA 랜덤으로 만들어주는 것도 만들었었는데, 실험적으로 쓸 건 못 됩니다. hairpin같은 거 생겨서... <br>
 <h3>Q5. 일하다가 막히면 어떻게 하시나요? </h3>
 <b>A5. </b>뭘 물어요 구글에 물어봐야지. <s>스택오버플로우여 도와주세요</s><br>
-<br>
 가끔 어처구니없게도 화장실에서 볼일 보다가 해결되는 경우가 있긴 합니다. <s>이게 그 측간신 버프인가요</s><br>
+<br>
 파이썬은 참 웃긴게... indent도 중요하지만 코드 순서에 따라서도 결과가 많이 달라지기때문에... <br>
 for문에서 뭐가 안되던거 리스트 밖으로 빼서 해결된 적도 있습니다. 아니면 입력 형태를 바꾼다던가... <br>
 아무튼 참 재밌는 언어예요. <br>
 <br>
 스도쿠도 안 풀리던 거 한숨 돌리고 나서 보면 답이 보이는 경우도 있는데 코딩이나 스도쿠나 그런 맥락에서는 비슷하다고 생각합니다. <br>
 예전에 차근차근 게임코딩으로 두뇌풀가동 코딩할때도 그랬던 것 같은데... <br>
-<h3>Q6. 저도 차근차근 게임코딩 사려고 하는데, 이거 재미있나요? </h3>
-<b>A6. </b>저는 개인적으로 재미있게 했습니다. 그리고 도움이 됐어요. <br>
+<h3>Q6. 게임할 때 특별히 선호하는 클래스는? </h3>
+<b>A6. </b>마법사요. 개인적으로 근접전보다는 원거리 공격을 선호합니다. <br>
+로스트아크도 소서리스가 본캐고, 던파 할 때도 엘리멘탈 마스터랑 소환사 키웠었습니다. (디아2도 강령이랑 소서리스 만들었음)<br>
+상여자는 딜로 말하는거예요. <s>주문 안 하셨지만 운석 좀 낭낭하게 넣어드리고 막</s><br>
+강령술사나 소환하처럼 뭐 불러서 우르르 때리는 직업도 좋아하지만, 역시 가장 좋은 건 폭딜이죠. <br>
 <br>
-이건 게임이라는 커다란 그림을 그리기 위해 필요한 기능을 하나씩 구현해나가는 방식입니다. 틀린그림찾기를 예로 들자면(차근차근게임코딩 안에 틀린그림찾기는 없습니다)<br>
-<ol>
-  <li>틀린 곳을 찾아야 하는 그림을 출력할 큰 부분을 만들고</li>
-  <li>그림을 출력하는 부분을 만든 다음</li>
-  <li>사용자의 입력을 받고(이 경우 스위치에서 진행하려면 터치스크린으로 입력을 받겠죠?)</li>
-  <li>틀렸다/맞았다를 판정해서 결과를 출력하게 하고</li>
-  <li>거기에 따른 점수를 추가하거나 찾아야 하는 틀린 부분의 개수와 남은 개수를 출력하게 한다</li>
-</ol>
-이런 방식입니다. 작은 것들을 구현해서 큰 그림을 완성하는 느낌이죠. <br>
-<br>
-하다 보니 요즘은 어떤 기능을 구현하기 위해 small scale에서부터 시작한 다음 일반화를 거치는 scale-up 방식으로 코딩하고 있습니다. <br>
-문제같은 것도 한번에 확 하는것보단 일단 이해하고 도식화하고 필요한 게 뭘지 생각해보는 게 편하고요. <s>가끔 측간신 버프도 좀 받고</s>
+마법사가 없으면 그 다음으로는 궁수 선택하긴 한데, 어지간한 게임은 마법사가 있습니다. <br>
 <h1>How to contact</h1>
 <h3>Mail</h3>
 <b>Notes: </b>개발 환경이 구축된 노트북은 리눅스입니다. 그리고 카카오톡은 리눅스 버전이 없기 때문에 개발할 때는 디스코드와 메일을 주로 활용합니다. <br>
@@ -106,7 +98,7 @@ Discord Name: Lv. 32 라이츄💕#5597/Discord ID: 320538255512698881 <br>
 워드프레스 방명록으로도 소통 가능합니다. 아울러 GitHub에는 개인 번호를 공개하지 않습니다. 
 <h3>Links</h3>
 <a href="https://github.com/koreanraichu/CodingPDS">GitHub main repository</a> Language: KOR<br>
-<a href="https://koreanraichu.sfuhost.com/">Wordpress</a> Language: KOR<br>
-<a href="https://medium.com/@koreanraichu">Medium</a> Language: KOR<br>
+<a href="https://koreanraichu.sfuhost.com/">Wordpress 블로그</a> Language: KOR<br>
+<a href="https://medium.com/@koreanraichu">Medium 블로그</a> Language: KOR<br>
 <a href="https://www.deviantart.com/blackholekun">Devianart</a> Language: ENG<br>
-<a href="https://study-ing.notion.site/Molecular-recognization-c42def0b6a884f67af3fcb7f14bfa45f">Notion 팔만대장경 구경하러 가기</a> Language: KOR/ENG
+<a href="https://study-ing.notion.site/Molecular-recognization-c42def0b6a884f67af3fcb7f14bfa45f">Notion 팔만대장경 구경하러 가기(분량주의)</a> Language: KOR/ENG
