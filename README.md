@@ -1,6 +1,6 @@
 <h1>Welcome to my repository!</h1>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FP5HKG%2Fbtrm2prJlIu%2FXA6qMTidyA1krW4Ldvxr2K%2Fimg.png" width="450">
-<blockquote>코더 Job lv. 올리고 있는 포켓몬 매니아인 생물학 전공자</blockquote> 
+<blockquote>코더 Job lv. 올리고 있는 포켓몬 매니아인 생물학 전공자+Nerd</blockquote> 
 <h3>일단 해 본 것들</h3>
 <ul>
   <li>VB(Visual basic)</li>
@@ -37,6 +37,7 @@
 떄로는 불같고 때로는 칼같은 성격입니다. <br>
 사람과 사람 사이에 신뢰가 중요하다고 생각하는 주의이기도 합니다. <br>
 한 번 신뢰를 잃으면, 칼같이 끊어버리는 타입이고요. <br>
+상식이 결여되었거나 심각하게 나사빠진 분은 칼같이 손절해드릴 수 있습니다. <br>
 <h3>여담</h3>
 깃헙(그러니까 여기), 본인 생일, 모동숲 시작일이 하루단위로 어긋납니다. <br>
 깃헙: 2019.3.27 <br>
