@@ -2,9 +2,9 @@
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FP5HKG%2Fbtrm2prJlIu%2FXA6qMTidyA1krW4Ldvxr2K%2Fimg.png" width="450">
 <blockquote>흔한 동네 코더</blockquote> 
 <h2>About contributor</h2>
-주로 Python을 합니다. HTML/CSS도 할 수는 있는데 전문가 수준은 아닙니다. <br>
+주로 Python을 하고, 요즘은 JavaScript(Vanilla JS)도 합니다. <br>
 파이참이나 Spyder도 편하긴 한데, 원탑은 역시 VScode죠. Biopython 못 불러오는 건 좀 아쉽네요. <br>
-개발은 주로 리눅스에서 합니다. 현재 우분투 20.04 LTS 사용중입니다. 
+개발은 주로 리눅스에서 합니다. 최근에 우분투 20.04 LTS를 쓰다가 22.04 LTS로 올렸습니다. 
 <h2>Q&A</h2>
 <h3>Q1. 코딩에 입문하게 된 계기는?</h3>
 <b>A1. </b>고등학생때 직업탐구 영역 공부하면서 VB(비주얼 베이직) 배웠습니다. <br>
@@ -25,9 +25,6 @@
 <h3>Q5. 일하다가 막히면 어떻게 하시나요? </h3>
 <b>A5. </b>우리에겐 구글이 있습니다. <s>스택오버플로우여 도와주세요</s><br>
 가끔 어처구니없게도 화장실에서 볼일 보다가 해결되는 경우가 있긴 합니다. 
-<h3>Q6. 게임할 때 특별히 선호하는 클래스는? </h3>
-<b>A6. </b>마법사요. 개인적으로 근접전보다는 원거리 공격을 선호합니다. 특히 폭풍같이 딜 날리는 류요. <br>
-실전용 포켓몬은 어태커도 있도 탱커도 있긴 한데, 어태커 비중이 많습니다. 
 <h1>How to contact</h1>
 <h3>Mail</h3>
 blackholekun@gmail.com(국외)/pokemonms@naver.com(국내)<br>
