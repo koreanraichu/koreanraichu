@@ -34,5 +34,6 @@ blackholekun@gmail.com(국외)/pokemonms@naver.com(국내)<br>
 <h3>Links</h3>
 <a href="https://github.com/koreanraichu/CodingPDS">GitHub main repository</a> Language: KOR<br>
 <a href="https://koreanraichu.sfuhost.com/">Wordpress 블로그</a> Language: KOR<br>
+<a href="https://koreanraichu.tistory.com/">Tistory</a> Language: KOR<br>
 <a href="https://medium.com/@koreanraichu">Medium 블로그</a> Language: KOR<br>
 <a href="https://study-ing.notion.site/Molecular-recognization-c42def0b6a884f67af3fcb7f14bfa45f">Notion 팔만대장경 구경하러 가기(분량주의)</a> Language: KOR/ENG
