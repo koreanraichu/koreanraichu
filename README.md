@@ -1,6 +1,6 @@
 <h1>Welcome to my repository!</h1>
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fb6LRhS%2FbtrU15fhiuo%2Ff8PbnI5vQVv1BeKSK2kohK%2Fimg.jpg" width="450">
-<blockquote>흔한 동네 코더</blockquote> 
+<blockquote>이것은 노말인가 레전더리인가</blockquote> 
 <h2>About contributor</h2>
 주로 Python을 하고, 요즘은 JavaScript(Vanilla JS)도 합니다. <br>
 파이참이나 Spyder도 편하긴 한데, 원탑은 역시 VScode죠. Biopython 못 불러오는 건 좀 아쉽네요. <br>
