@@ -29,7 +29,6 @@
 <h3>Mail</h3>
 blackholekun@gmail.com(국외)/pokemonms@naver.com(국내)<br>
 <h3>Links</h3>
-<a href="https://github.com/koreanraichu/CodingPDS">GitHub main repository</a> Language: KOR<br>
 <a href="https://koreanraichu.sfuhost.com/">Wordpress 블로그</a> Language: KOR<br>
 <a href="https://koreanraichu.tistory.com/">Tistory</a> Language: KOR<br>
 <a href="https://medium.com/@koreanraichu">Medium 블로그</a> Language: KOR<br>
