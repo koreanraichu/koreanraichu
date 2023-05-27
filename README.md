@@ -6,23 +6,22 @@
 
 | 사용자 정보 | |
 | --- | --- |
-| 사용자명 | Koreanraichu |
-| 최초 생성일 | 2019.03.27 |
-| 주 언어 | Python, JS |
+| **사용자명** | Koreanraichu |
+| **최초 생성일** | 2019.03.27 |
+| **주 언어** | Python, JS |
+| **Solved.ac 랭킹** | 실버 2 |
+| **관련 링크** | [Medium](https://medium.com/@koreanraichu) [Tistory](https://koreanraichu.tistory.com/) [Wordpress](https://koreanraichu.sfuhost.com/) |
 
 ## 개요
 
-평범한 GitHub의 유저. 2019년 3월 27일 처음으로 깃헙 저장소를 만들고 올렸다가 코드가 올라가서 당황했다.  
+평범한 GitHub의 유저. 2019년 3월 27일 처음으로 깃헙 저장소를 만들고 올렸다가 문자 그대로 코드가 올라가서 당황했다.  
 놀랍게도 풀 커밋 푸시도 몰라서 헤매던 시절이 있었다. ~~지금도 가끔 풀 커밋 푸시하다가 에러 생기면 당황한다~~  
 
-원래 전공은 분자생물학이지만 학부 시절에도 Visual basic을 만졌었다. 그 영향으로 엑셀 매크로가 필요하면 VBA를 조작해서 알아서 매크로를 짜기도 한다.  
+원래 전공은 분자생물학이지만 고등학생때 Visual Basic을 접했고, 학부 시절에도 Visual basic을 만졌었다. 그 영향으로 엑셀 매크로가 필요하면 VBA를 조작해서 알아서 매크로를 짜기도 한다.  
 MATLAB, JSP, R 등 다양한 언어를 경험해봤지만 현재 하는 건 크게 Python과 JavaScript 두 개. 저장소는 각 언어에 따라 분리되어 있다.  
-주로 사용하는 IDE는 VScode지만 가끔 VScode에서 안 되는 모듈이 있으면 Pycharm도 쓴다. 
 
-## Contact Us
-Mail: pokemonms@naver.com(Naver, 매일 확인), blackholekun@gmail.com(Gmail, 잘 안 읽음)
+노트북이 두 대 있으며, 개발용으로 돌리는 노트북은 우분투를 사용중이다. ~~조카가 이상한 거 설치할 일은 없다~~  
+현재 22.04 LTS를 사용중이며, 구글의 도움을 받아 16.02 LTS를 쓸 때부터 개발 환경을 구축했으나 컴퓨터 사양때문에 골골거릴 때가 있어 새 노트북을 공개수배중이다.  
 
-## Link
-[Medium](https://medium.com/@koreanraichu) : Medium 블로그  
-[Tistory](https://koreanraichu.tistory.com/) : Tistory 블로그  
-[Wordpress](https://koreanraichu.sfuhost.com/) : 워드프레스. 가끔 서버 점검 등으로 인해 접속이 안될 때가 있다.  
+포켓몬 매니아로, 포켓몬 센터에 가기 위해 일본을 갈 정도. 닌텐도 스위치도 가지고 있다.  
+귀찮은 것은 질색이지만 의외로 근성 있는 면도 있어서, 포켓몬 GO를 6년 넘게 하루도 빠지지 않고 하고 있다. 현재 레벨은 48. 
