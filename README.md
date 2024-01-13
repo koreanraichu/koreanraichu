@@ -1,10 +1,10 @@
 # User:koreanraichu
 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fk6et4%2FbtszLpyOyCA%2F0Zf2w1UkyZo7r10s2LKXG1%2Fimg.jpg" width="550px">
+<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FIOOAY%2FbtsC87NTZ1f%2FGdF3IaKmk7c9SxCCzC4hI0%2Fimg.jpg" width="550px">
   
 > 인생은 언제나 Try and Except
 
-| 사용자 정보 | 항목 |
+| 항목 | 내용 |
 | --- | --- |
 | **사용자명** | Koreanraichu |
 | **최초 생성일** | 2019.03.27 |
@@ -18,7 +18,7 @@
 놀랍게도 풀 커밋 푸시도 몰라서 헤매던 시절이 있었다. 그리고 지금도 가끔 풀 커밋 푸시하다가 에러 생기면 당황한다. 
 
 원래 전공은 분자생물학이지만 고등학생때 Visual Basic을 접했고, 학부 시절에도 Visual basic을 만졌었다. 그 덕인지 엑셀 매크로가 필요해서 직접 VBA를 조작해 매크로를 짠 적도 있다. 
-논리게이트는 물론이고 2, 8, 16진수에 상호변환 보수까지 알고 있다. 이쯤되면 전공이 왜 생물학인지 불명일 정도. 
+논리게이트는 물론이고 2, 8, 16진수에 상호변환, 보수까지 알고 있다. 이쯤되면 전공이 왜 생물학인지 불명일 정도. 
 
 MATLAB, JSP, R 등 다양한 언어를 경험해봤지만 현재 하는 건 크게 Python과 JavaScript 두 개. 저장소는 각 언어에 따라 분리되어 있다. 
 Python에 비해 JS는 업로드가 상당히 뜸하다. 요즘은 파이썬도 덩달아서 뜸해진 것 같지만 가끔 백준을 푸는 걸 보면 체력 문제인 듯 하다. 
@@ -33,3 +33,5 @@ Python에 비해 JS는 업로드가 상당히 뜸하다. 요즘은 파이썬도 
   귀찮은 것은 질색이지만 의외로 근성 있는 면도 있어서, 포켓몬 GO를 6년 넘게 하루도 빠지지 않고 하고 있다. 현재 레벨은 49. 
 
 * 콜라와 사이다 중에서 닥터페퍼를 고를 정도로 취향이 확고한 편. 
+
+* 매운 음식을 못 먹는다. 대신 신 음식을 잘 먹어서 등가교환이라고 생각중이다. 
