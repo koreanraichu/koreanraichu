@@ -10,7 +10,7 @@
 | **GitHub 생성일** | 2019.03.27 |
 | **주 언어** | Python, JavaScript |
 | **Solved.ac 랭킹** | 실버 1 |
-| **관련 링크** | [Medium](https://medium.com/@koreanraichu) [Tistory](https://koreanraichu.tistory.com/) |
+| **관련 링크** | [Medium](https://medium.com/@koreanraichu) [Tistory](https://koreanraichu.tistory.com/) [Portfolio](https://koreanraichu.github.io/)|
 
 ## 개요
 
